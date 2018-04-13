@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "KDMRPG",
+"dataUrl": "ElevationGame.data.unityweb",
+"asmCodeUrl": "ElevationGame.asm.code.unityweb",
+"asmMemoryUrl": "ElevationGame.asm.memory.unityweb",
+"asmFrameworkUrl": "ElevationGame.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
